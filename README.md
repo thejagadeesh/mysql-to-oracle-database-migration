@@ -29,8 +29,7 @@ This project demonstrates the migration of a relational database from MySQL to O
 mysql-to-oracle-database-migration/
 │
 ├── README.md
-├── mysqltooracle/data_move
-├── mysql-to-oracle-database-migration/mysqltooracle/generated/scripts
+├── scripts/
 ├── screenshots/
 
 - `scripts/` → SQL, log, BAT, SH, and CTL files generated during migration  
